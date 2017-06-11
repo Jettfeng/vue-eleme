@@ -1,6 +1,6 @@
-# seller
+# 饿了么外卖商家页面
 
-> seller app
+>饿了么外卖商家页面
 
 ## Build Setup
 
